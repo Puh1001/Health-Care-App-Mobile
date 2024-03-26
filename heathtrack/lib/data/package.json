@@ -1,0 +1,18 @@
+{
+  "name": "datasend",
+  "version": "1.0.0",
+  "description": "Send data to server",
+  "main": "sendData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "puh",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2"
+  }
+}

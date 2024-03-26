@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8529954-71b8-494c-b893-f2d442ac2252" name="Changes" comment="add alert page in UpdatePatientInfoView">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heathtrack/lib/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/heathtrack/lib/data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heathtrack/lib/widgets/diagnoseBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/heathtrack/lib/widgets/diagnoseBar.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2astsDLkyx8ULE1HUWrSrOQycQP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ScreenshotViewer.SavePath&quot;: &quot;D:/&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/heathtrack/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8529954-71b8-494c-b893-f2d442ac2252" name="Changes" comment="" />
+      <created>1705119321106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705119321106</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add delete and change info button on PatienCard">
+      <option name="closed" value="true" />
+      <created>1709169472064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709169472064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload page update information">
+      <option name="closed" value="true" />
+      <created>1709221452568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709221452568</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change format code">
+      <option name="closed" value="true" />
+      <created>1709304540856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709304540856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change view profile for patient view">
+      <option name="closed" value="true" />
+      <created>1709312115891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709312115891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update code in updateInfoView,">
+      <option name="closed" value="true" />
+      <created>1709369854422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709369854422</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update validate in updateInfoView,">
+      <option name="closed" value="true" />
+      <created>1709396011676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709396011676</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update in patientCard, change router updateInfoView">
+      <option name="closed" value="true" />
+      <created>1709803381045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709803381045</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change data, add newsScreen">
+      <option name="closed" value="true" />
+      <created>1709875285799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709875285799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upload newsScreen">
+      <option name="closed" value="true" />
+      <created>1709961508207</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709961508207</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Upload watcher input form in updateWatcherInfoView">
+      <option name="closed" value="true" />
+      <created>1709994770549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709994770549</updated>
+    </task>
+    <task id="LOCAL-00011" summary="create notification service add firebase">
+      <option name="closed" value="true" />
+      <created>1710090997011</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710090997011</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create notification service add firebase">
+      <option name="closed" value="true" />
+      <created>1710091023399</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710091023399</updated>
+    </task>
+    <task id="LOCAL-00013" summary="create notification service add firebase">
+      <option name="closed" value="true" />
+      <created>1710136783122</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710136783122</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add updatePatientInfoView">
+      <option name="closed" value="true" />
+      <created>1710138505564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710138505564</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change visibility in login">
+      <option name="closed" value="true" />
+      <created>1710139286998</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710139286998</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change height of card in homeScreen">
+      <option name="closed" value="true" />
+      <created>1710208148468</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710208148468</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add app logo">
+      <option name="closed" value="true" />
+      <created>1710231109580</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710231109580</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add alert page in UpdatePatientInfoView">
+      <option name="closed" value="true" />
+      <created>1710260777185</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710260777185</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add delete and change info button on PatienCard" />
+    <MESSAGE value="upload page update infomation" />
+    <MESSAGE value="upload page update information" />
+    <MESSAGE value="change format code" />
+    <MESSAGE value="change view profile for patient view" />
+    <MESSAGE value="update code in updateInfoView," />
+    <MESSAGE value="update validate in updateInfoView," />
+    <MESSAGE value="update in patientCard, change router updateInfoView" />
+    <MESSAGE value="change data, add newsScreen" />
+    <MESSAGE value="upload newsScreen" />
+    <MESSAGE value="Upload watcher input form in updateWatcherInfoView" />
+    <MESSAGE value="create notification service add firebase" />
+    <MESSAGE value="add updatePatientInfoView" />
+    <MESSAGE value="change visibility in login" />
+    <MESSAGE value="change height of card in homeScreen" />
+    <MESSAGE value="add app logo" />
+    <MESSAGE value="add alert page in UpdatePatientInfoView" />
+    <option name="LAST_COMMIT_MESSAGE" value="add alert page in UpdatePatientInfoView" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276426229088",
+    "project_id": "health-care-project-f7c4d",
+    "storage_bucket": "health-care-project-f7c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276426229088:android:e89fb73808e936e9e60a05",
+        "android_client_info": {
+          "package_name": "com.example.heathtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPdygSAnlm4GiDrJ5-lLSGArjZx5GUCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
